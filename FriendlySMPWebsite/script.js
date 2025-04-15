@@ -24,7 +24,7 @@ function withTimeout(promise, ms) {
 function updateServerStatus() {
   const javaURL = "https://api.mcsrvstat.us/1/27.ip.gl.ply.gg:10027";
 
-  withTimeout(fetch(javaURL).then(res => res.json()), 1500).then(javaData => {
+  withTimeout(fetch(javaURL).then(res => res.json()), 3000).then(javaData => {
     const javaStatus = document.getElementById('javaStatus');
     const javaPlayerList = document.getElementById('javaPlayerList');
     const javaPlayersSpan = document.getElementById('javaPlayers');
