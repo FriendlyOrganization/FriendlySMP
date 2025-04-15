@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.91.176.19
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744546473762
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744615124074
+  login: 1744614982726
+money: '0'
+last-account-name: .AryaveerIsPro
+logoutlocation:
+  world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+  world-name: world
+  x: 1795.4698
+  y: -38.0
+  z: -3308.69999
+  yaw: -91.44108581542969
+  pitch: 31.559417724609375
+lastlocation:
+  world: 305b5fe9-ec33-4c29-9abe-a115cb8dafce
+  world-name: world_nether
+  x: 243.69283
+  y: 40.7532
+  z: -407.8788
+  yaw: -127.25360107421875
+  pitch: 59.248016357421875

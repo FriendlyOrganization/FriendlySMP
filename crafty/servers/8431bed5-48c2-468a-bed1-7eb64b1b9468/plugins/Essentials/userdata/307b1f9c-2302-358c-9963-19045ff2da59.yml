@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.110.215.35
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744617009091
+  lastheal: 1744620784882
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744621444178
+  login: 1744620720482
+money: '0'
+last-account-name: kevin_ke_papa
+lastlocation:
+  world: 305b5fe9-ec33-4c29-9abe-a115cb8dafce
+  world-name: world_nether
+  x: 50.900045606224346
+  y: 16.200000047683716
+  z: -25.551753245292154
+  yaw: 85.27716064453125
+  pitch: 28.25910758972168
+logoutlocation:
+  world: 305b5fe9-ec33-4c29-9abe-a115cb8dafce
+  world-name: world_nether
+  x: 267.71589220493314
+  y: 15.0
+  z: -118.93866461069427
+  yaw: -152.9808807373047
+  pitch: 27.018117904663086

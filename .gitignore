@@ -1,0 +1,12 @@
+/plugins/spark/tmp-client/*.tmp
+*.tmp
+*.log
+/workspaces/FriendlySMP/crafty/servers/8431bed5-48c2-468a-bed1-7eb64b1b9468/logs
+/crafty/backups/
+logs/
+
+# Ignore backup folder
+crafty/backups/
+
+# Ignore logs
+logs/

@@ -1,0 +1,79 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.64.1.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744627362619
+  lastheal: 1744133199676
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744628319025
+  login: 1744628275892
+money: '0'
+last-account-name: AryanIssPro
+logoutlocation:
+  world: 305b5fe9-ec33-4c29-9abe-a115cb8dafce
+  world-name: world_nether
+  x: 164.59982561826402
+  y: 46.0
+  z: -22.49458897278694
+  yaw: -94.24237060546875
+  pitch: 60.89997482299805
+homes:
+  home:
+    world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+    world-name: world
+    x: 594.5396631935929
+    y: 70.0
+    z: -175.63872963978463
+    yaw: 90.90118408203125
+    pitch: 19.949993133544922
+  village:
+    world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+    world-name: world
+    x: 85.49093106955443
+    y: 69.0
+    z: -186.78837010260008
+    yaw: -29.250091552734375
+    pitch: 10.499987602233887
+  xpfarm:
+    world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+    world-name: world
+    x: 664.3000000119209
+    y: 21.0
+    z: -194.69999998807907
+    yaw: -45.44980239868164
+    pitch: 29.099956512451172
+  grinder:
+    world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+    world-name: world
+    x: 465.69999998807907
+    y: -59.0
+    z: -185.17339613744642
+    yaw: 92.5724105834961
+    pitch: 8.250105857849121
+  portal:
+    world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+    world-name: world
+    x: 634.9357163835507
+    y: -43.0
+    z: -2143.2531528254267
+    yaw: -67.9498291015625
+    pitch: 43.95001220703125
+lastlocation:
+  world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+  world-name: world
+  x: 630.5
+  y: -46.0
+  z: -2141.5
+  yaw: 89.99999237060547
+  pitch: 0.0

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+        <title>Friendly SMP Website</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1>Welcome to Friendly SMP</h1>
+        <button id="startServer">Start Server</button>
+
+        <div class="container">
+            <h2>Server Status</h2>
+            <div class="info-box">
+                <span id="javaStatus" class="status offline" style="font-size:2rem;">Checking...</span>
+            </div>
+            <div class="info-box">
+                <h3>Active Players</h3>
+                <div id="javaPlayerList" style="display: none;">
+                    <span id="javaPlayers">0</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <h2>Server Details</h2>
+            <div class="info-box">
+                <div class="server-info">
+                    <strong>Java IP:</strong> <span id="javaIP">Loading...</span>
+                    <button class="copy-btn" onclick="copyText('javaIP')">📋</button>
+                </div>
+                <div class="server-info">
+                    <strong>Bedrock IP:</strong> <span id="bedrockIP">Loading...</span>
+                    <button class="copy-btn" onclick="copyText('bedrockIP')">📋</button>
+                </div>
+                <div class="server-info">
+                    <strong>Bedrock Port:</strong> <span id="bedrockPort">Loading...</span>
+                    <button class="copy-btn" onclick="copyText('bedrockPort')">📋</button>
+                </div>
+            </div>
+            <div class="buttons">
+                <button id="mapLink" onclick="window.open('http://27.ip.gl.ply.gg:10013/', '_blank')">View Live Map</button>
+                <button id="craftyPanel">Crafty Control Panel</button>
+            </div>
+        </div>
+
+        <div id="CredsInfoFrame" class="container">
+            <h3>Login Username</h3>
+            <button id="toggleCredentials">Show Username</button>
+            <div id="credentials" class="info-box" style="display: none;">
+                <div class="server-info"><strong>GitHub Username:</strong> <span id="githubUser">Hidden</span></div>
+            </div>
+        </div>
+
+        <div class="theme-toggle">
+            <button id="toggleTheme">Switch to Light Theme</button>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.53.174.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744215770675
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744215525904
+  login: 1744215734526
+money: '0'
+last-account-name: VaibhavIssPro
+lastlocation:
+  world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+  world-name: world
+  x: 23.040842254316754
+  y: 68.0
+  z: -4.490888919992405
+  yaw: 103.20001220703125
+  pitch: 23.249998092651367
+logoutlocation:
+  world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+  world-name: world
+  x: 23.5
+  y: 68.0
+  z: -4.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: f40796f5-8651-47b6-ae21-bbf1ca44ff73
+    world-name: world
+    x: 552.5069346222785
+    y: 69.0
+    z: -213.99163863748575
+    yaw: -151.49855041503906
+    pitch: 15.899988174438477
