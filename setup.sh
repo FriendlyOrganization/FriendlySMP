@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mkdir logs
+
 sudo apt update
 
 set -e  # Exit on error
